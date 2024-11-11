@@ -1,0 +1,36 @@
+/* Georgian College at ILAC
+24F Client-Side JavaScript - 200
+Assignment 2
+-------------------------------
+Student: Geraldo Beiro Neto
+Student ID: 200587023
+*/
+
+body {
+    background: linear-gradient(to right, #3879da, #c1e9ce, #3879da); 
+    height: 100vh; 
+    margin: 0;    
+}
+img {
+    border-radius: 15%;
+    border: 2px solid black; 
+    box-shadow: -10px -10px 20px rgba(9, 18, 49, 0.5); 
+}
+
+ul {
+    list-style-type: none; 
+    padding: 0; 
+    margin: 0;
+}
+
+li {
+    display: inline-block; 
+    margin-right: 10px; 
+}
+footer{
+    color: rgb(55, 23, 85);
+}
+h1{
+    text-align: center;
+    font-size: 45px;
+}
